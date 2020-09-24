@@ -22,7 +22,7 @@ request(input[2], (error, response, body) => {
       // if(input[3]){
       //   throw err
       // }
-      console.log("the file has been updated")
+      //console.log("the file has been updated")
     });
     let bytes;// returns an object called stats, with key of size
     //return console.log(`Downloaded and saved ${bytes.size} bytes to ${input[3]}`);
